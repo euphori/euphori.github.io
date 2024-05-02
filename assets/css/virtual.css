@@ -1141,7 +1141,7 @@ a:hover, a:active {
 
 .theme-red .btn-theme-outline {
     color: #FFFFFF;
-    box-shadow: 0 0 0 2px #27374D;
+    box-shadow: 0 0 0 2px #ff6060;
 }
 
 .theme-red .btn-theme-outline:hover {
