@@ -28,7 +28,7 @@
  */
 
 :root {
-    --theme-red: #ef3724;
+    --theme-red: #27374D;
     --theme-blue: #2960f7;
     --theme-green: #8cc63f;
     --theme-orange: #fd7e14;
@@ -483,7 +483,7 @@ a:hover, a:active {
 
 .progress-bar {
     font-size: 12px;
-    background-color: #747474;
+    background-color: #E7DFD8;
 }
 
 /* 
@@ -1118,63 +1118,63 @@ a:hover, a:active {
 
 /* Theme red */
 .theme-red .bg-theme {
-    background-color: #EF3724 !important;
+    background-color: #27374D !important;
 }
 
 .theme-red .fg-theme {
-    color: #EF3724 !important;
+    color: #FFFFFF   !important;
 }
 
 .theme-red .btn-theme {
-    background-color: #EF3724;
+    background-color: #9DB2BF;
     color: #fff;
 }
 
 .theme-red .btn-theme:hover {
-    background-color: #F04936;
+    background-color: #27374D;
     color: #fff;
 }
 
 .theme-red .btn-theme:focus {
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #EF3724;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #9DB2BF;
 }
 
 .theme-red .btn-theme-outline {
-    color: #EF3724;
-    box-shadow: 0 0 0 2px #EF3724;
+    color: #FFFFFF;
+    box-shadow: 0 0 0 2px #27374D;
 }
 
 .theme-red .btn-theme-outline:hover {
-    background-color: #EF3724;
+    background-color: #9DB2BF;
     color: #fff;
 }
 
 .theme-red .btn-theme-outline:focus {
-    background-color: #EF3724;
+    background-color: #DDE6ED;
     color: #fff;
-    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #EF3724;
+    box-shadow: 0 0 0 3px #fff, 0 0 0 5px #27374D;
 }
 
 .theme-red .btn-fab {
-    background-color: #EF3724;
+    background-color: #27374D;
     color: #fff;
 }
 
 .theme-red .btn-fab:hover {
-    background-color: #F04936;
+    background-color: #9DB2BF;
     color: #fff;
 }
 
 .theme-red .progress {
-    box-shadow: 0 0 0 2px #EF3724;
+    box-shadow: 0 0 0 2px #27374D;
 }
 
 .theme-red .progress-bar {
-    background-color: #EF3724;
+    background-color: #2F3131;
 }
 
 .theme-red .theme-list li::before {
-    border-color: #EF3724;
+    border-color: #27374D;
 }
 
 

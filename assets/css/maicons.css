@@ -25,14 +25,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-#myVideo {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  min-width: 100%;
-  min-height: 100%;
-  z-index: 20;
-}
+
 
 .godot {
   background-color: #7087c7;
